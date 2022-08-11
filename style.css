@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+#container{
+	width: 30%;
+	background-color: white;
+	padding: 10px 40px;
+	margin: 0 auto;
+  	font-family: Verdana, Helvetica, Arial;
+  	border: solid 1px black;
+  	text-align: justify;
+}
+
+#faixa{
+	width: 30%;
+	background-color: #2E8B57;
+	padding: 10px 40px;
+	margin: 0 auto;
+	border: solid 1px black;
+	font-family: Verdana, Helvetica, Arial;
+	color: white;
+}
